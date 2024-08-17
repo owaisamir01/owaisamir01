@@ -7,13 +7,13 @@
 
 - 🔭 I’m currently working on **E-Commerce Web App**
 
-- 🌱 I’m currently learning **Laravel , React Native React Js Python**
+- 🌱 I’m currently learning **Laravel , React Native ,React Js , Python**
 
 - 👯 I’m looking to collaborate on **Cross Platform Mobile App Development**
 
 - 🤝 I’m looking for help with **Web Services Development**
 
-- 💬 Ask me about **React JS, Laravel, JAVA , Python React Js **
+- 💬 Ask me about **React JS, Laravel, JAVA , Python , React Js **
 
 - 📫 How to reach me **sheikhowais0001@gmail.com**
 
